@@ -15,10 +15,10 @@ It can be directly deployed in Rinkeby (a Ethereum test netwokr), the link is av
 
  ## How to use these files
  ### Dependency:
- 1. ns 2.35, avaiable at: 
- 2. JDK, avaiable at: 
- 3. Ant, avaiable at: 
- 4. VanetMobiSim, avaiable at:
+ 1. ns 2.35, avaiable at: http://nchc.dl.sourceforge.net/project/nsnam/allinone/ns-allinone-2.35/ns-allinone-2.35.tar.gz
+ 2. JDK, avaiable at: http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+ 3. Ant, avaiable at: http://ant.apache.org/bindownload.cgi
+ 4. VanetMobiSim, avaiable at:http://vanet.eurecom.fr/
  
  ### Setps
  1. Use vms_get_scen.xml to generate the simualtion scenario file:
