@@ -2,7 +2,7 @@
 Source codes of solidity-based smart contract, NS, VanetMobiSim in our proposed BCPPA
 
 # Solidity-based Smart Contract
-The smart contract provides the function of <update>, <get>, and <deletetx> to maintain certificates of vehicles.
+The smart contract provides the function of 'update', 'get', and 'deletetx' to maintain certificates of vehicles.
 It can be directly deployed in Rinkeby (a Ethereum test netwokr), the link is available at: https://www.rinkeby.io, and we tested and invoked it using Remix (available at: http://remix.ethereum.org).
   
  # NS + VanetMobiSim
